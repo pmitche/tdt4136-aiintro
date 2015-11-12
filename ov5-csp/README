@@ -1,0 +1,1 @@
+Implementation of a general constraint satisfaction problems solver in Python 2.7, using backtracking and the arts-consistency-3 algorithm. Used to solve sudoku boards.
